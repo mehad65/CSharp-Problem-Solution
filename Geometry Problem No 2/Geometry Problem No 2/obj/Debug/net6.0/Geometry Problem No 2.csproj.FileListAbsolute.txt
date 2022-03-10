@@ -1,0 +1,15 @@
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Problem No 2\Geometry Problem No 2\bin\Debug\net6.0\Geometry Problem No 2.exe
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Problem No 2\Geometry Problem No 2\bin\Debug\net6.0\Geometry Problem No 2.deps.json
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Problem No 2\Geometry Problem No 2\bin\Debug\net6.0\Geometry Problem No 2.runtimeconfig.json
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Problem No 2\Geometry Problem No 2\bin\Debug\net6.0\Geometry Problem No 2.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Problem No 2\Geometry Problem No 2\bin\Debug\net6.0\Geometry Problem No 2.pdb
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Problem No 2\Geometry Problem No 2\obj\Debug\net6.0\Geometry Problem No 2.csproj.AssemblyReference.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Problem No 2\Geometry Problem No 2\obj\Debug\net6.0\Geometry Problem No 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Problem No 2\Geometry Problem No 2\obj\Debug\net6.0\Geometry Problem No 2.AssemblyInfoInputs.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Problem No 2\Geometry Problem No 2\obj\Debug\net6.0\Geometry Problem No 2.AssemblyInfo.cs
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Problem No 2\Geometry Problem No 2\obj\Debug\net6.0\Geometry Problem No 2.csproj.CoreCompileInputs.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Problem No 2\Geometry Problem No 2\obj\Debug\net6.0\Geometry Problem No 2.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Problem No 2\Geometry Problem No 2\obj\Debug\net6.0\refint\Geometry Problem No 2.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Problem No 2\Geometry Problem No 2\obj\Debug\net6.0\Geometry Problem No 2.pdb
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Problem No 2\Geometry Problem No 2\obj\Debug\net6.0\Geometry Problem No 2.genruntimeconfig.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Problem No 2\Geometry Problem No 2\obj\Debug\net6.0\ref\Geometry Problem No 2.dll
