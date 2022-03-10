@@ -1,0 +1,15 @@
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Triangle 01\Geometry Triangle 01\bin\Debug\net6.0\Geometry Triangle 01.exe
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Triangle 01\Geometry Triangle 01\bin\Debug\net6.0\Geometry Triangle 01.deps.json
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Triangle 01\Geometry Triangle 01\bin\Debug\net6.0\Geometry Triangle 01.runtimeconfig.json
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Triangle 01\Geometry Triangle 01\bin\Debug\net6.0\Geometry Triangle 01.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Triangle 01\Geometry Triangle 01\bin\Debug\net6.0\Geometry Triangle 01.pdb
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Triangle 01\Geometry Triangle 01\obj\Debug\net6.0\Geometry Triangle 01.csproj.AssemblyReference.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Triangle 01\Geometry Triangle 01\obj\Debug\net6.0\Geometry Triangle 01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Triangle 01\Geometry Triangle 01\obj\Debug\net6.0\Geometry Triangle 01.AssemblyInfoInputs.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Triangle 01\Geometry Triangle 01\obj\Debug\net6.0\Geometry Triangle 01.AssemblyInfo.cs
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Triangle 01\Geometry Triangle 01\obj\Debug\net6.0\Geometry Triangle 01.csproj.CoreCompileInputs.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Triangle 01\Geometry Triangle 01\obj\Debug\net6.0\Geometry Triangle 01.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Triangle 01\Geometry Triangle 01\obj\Debug\net6.0\refint\Geometry Triangle 01.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Triangle 01\Geometry Triangle 01\obj\Debug\net6.0\Geometry Triangle 01.pdb
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Triangle 01\Geometry Triangle 01\obj\Debug\net6.0\Geometry Triangle 01.genruntimeconfig.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Geometry Triangle 01\Geometry Triangle 01\obj\Debug\net6.0\ref\Geometry Triangle 01.dll
