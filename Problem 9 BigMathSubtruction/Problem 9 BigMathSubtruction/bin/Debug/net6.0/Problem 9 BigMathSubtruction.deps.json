@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Problem 9 BigMathSubtruction/1.0.0": {
+        "runtime": {
+          "Problem 9 BigMathSubtruction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem 9 BigMathSubtruction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
