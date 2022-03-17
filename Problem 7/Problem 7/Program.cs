@@ -1,23 +1,24 @@
-﻿Console.WriteLine("Please enter numbers with comma separator");
-string input=Console.ReadLine(); 
-string[] numbers=input.Split(',');
-int[] intnumbers=new int[numbers.Length];
-string k;
-for(int i=0; i<numbers.Length; i++)
+﻿using System.Text;
+Console.WriteLine("Please enter numbers with comma separator");
+string input = Console.ReadLine();
+string[] inputarray = input.Split(',');
+for (int i = 0; i < inputarray.Length; i++)
 {
-    for (int j = 0; j < numbers.Length-1; j++)
+    string store;
+    for (int j = i+1; j < inputarray.Length; j++)
     {
-        if (int.Parse(numbers[i]) < int.Parse(numbers[j]))
+        if (int.Parse(inputarray[i]) > int.Parse(inputarray[j]))
         {
-            k = numbers[i];
-            numbers[i]=numbers[j];
-            numbers[j]=k;
+            store = inputarray[i];
+            inputarray[i] = inputarray[j];
+            inputarray[j] = store;
         }
     }
 }
-foreach (var item in numbers)
+StringBuilder sb = new StringBuilder();
+foreach (var item in inputarray)
 {
-    string comma = item.Equals(numbers.LastOrDefault()) ? " " : ", ";
-    Console.Write(item +comma);
+    sb.Append(item + ",");
 }
-
+sb.Remove(sb.Length - 1, 1);
+Console.WriteLine(sb.ToString());
