@@ -1,0 +1,15 @@
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 7\Problem 7\bin\Debug\net6.0\Problem 7.exe
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 7\Problem 7\bin\Debug\net6.0\Problem 7.deps.json
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 7\Problem 7\bin\Debug\net6.0\Problem 7.runtimeconfig.json
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 7\Problem 7\bin\Debug\net6.0\Problem 7.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 7\Problem 7\bin\Debug\net6.0\Problem 7.pdb
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 7\Problem 7\obj\Debug\net6.0\Problem 7.csproj.AssemblyReference.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 7\Problem 7\obj\Debug\net6.0\Problem 7.GeneratedMSBuildEditorConfig.editorconfig
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 7\Problem 7\obj\Debug\net6.0\Problem 7.AssemblyInfoInputs.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 7\Problem 7\obj\Debug\net6.0\Problem 7.AssemblyInfo.cs
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 7\Problem 7\obj\Debug\net6.0\Problem 7.csproj.CoreCompileInputs.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 7\Problem 7\obj\Debug\net6.0\Problem 7.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 7\Problem 7\obj\Debug\net6.0\refint\Problem 7.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 7\Problem 7\obj\Debug\net6.0\Problem 7.pdb
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 7\Problem 7\obj\Debug\net6.0\Problem 7.genruntimeconfig.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 7\Problem 7\obj\Debug\net6.0\ref\Problem 7.dll
