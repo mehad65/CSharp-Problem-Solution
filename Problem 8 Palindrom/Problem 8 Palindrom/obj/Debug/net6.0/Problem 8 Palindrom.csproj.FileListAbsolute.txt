@@ -1,0 +1,15 @@
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 8 Palindrom\Problem 8 Palindrom\bin\Debug\net6.0\Problem 8 Palindrom.exe
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 8 Palindrom\Problem 8 Palindrom\bin\Debug\net6.0\Problem 8 Palindrom.deps.json
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 8 Palindrom\Problem 8 Palindrom\bin\Debug\net6.0\Problem 8 Palindrom.runtimeconfig.json
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 8 Palindrom\Problem 8 Palindrom\bin\Debug\net6.0\Problem 8 Palindrom.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 8 Palindrom\Problem 8 Palindrom\bin\Debug\net6.0\Problem 8 Palindrom.pdb
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 8 Palindrom\Problem 8 Palindrom\obj\Debug\net6.0\Problem 8 Palindrom.csproj.AssemblyReference.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 8 Palindrom\Problem 8 Palindrom\obj\Debug\net6.0\Problem 8 Palindrom.GeneratedMSBuildEditorConfig.editorconfig
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 8 Palindrom\Problem 8 Palindrom\obj\Debug\net6.0\Problem 8 Palindrom.AssemblyInfoInputs.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 8 Palindrom\Problem 8 Palindrom\obj\Debug\net6.0\Problem 8 Palindrom.AssemblyInfo.cs
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 8 Palindrom\Problem 8 Palindrom\obj\Debug\net6.0\Problem 8 Palindrom.csproj.CoreCompileInputs.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 8 Palindrom\Problem 8 Palindrom\obj\Debug\net6.0\Problem 8 Palindrom.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 8 Palindrom\Problem 8 Palindrom\obj\Debug\net6.0\refint\Problem 8 Palindrom.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 8 Palindrom\Problem 8 Palindrom\obj\Debug\net6.0\Problem 8 Palindrom.pdb
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 8 Palindrom\Problem 8 Palindrom\obj\Debug\net6.0\Problem 8 Palindrom.genruntimeconfig.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 8 Palindrom\Problem 8 Palindrom\obj\Debug\net6.0\ref\Problem 8 Palindrom.dll
