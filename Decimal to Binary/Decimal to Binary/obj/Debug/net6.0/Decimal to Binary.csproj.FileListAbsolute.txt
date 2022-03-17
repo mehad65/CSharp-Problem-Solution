@@ -1,0 +1,15 @@
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Decimal to Binary\bin\Debug\net6.0\Decimal to Binary.exe
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Decimal to Binary\bin\Debug\net6.0\Decimal to Binary.deps.json
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Decimal to Binary\bin\Debug\net6.0\Decimal to Binary.runtimeconfig.json
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Decimal to Binary\bin\Debug\net6.0\Decimal to Binary.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Decimal to Binary\bin\Debug\net6.0\Decimal to Binary.pdb
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Decimal to Binary\obj\Debug\net6.0\Decimal to Binary.csproj.AssemblyReference.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Decimal to Binary\obj\Debug\net6.0\Decimal to Binary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Decimal to Binary\obj\Debug\net6.0\Decimal to Binary.AssemblyInfoInputs.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Decimal to Binary\obj\Debug\net6.0\Decimal to Binary.AssemblyInfo.cs
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Decimal to Binary\obj\Debug\net6.0\Decimal to Binary.csproj.CoreCompileInputs.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Decimal to Binary\obj\Debug\net6.0\Decimal to Binary.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Decimal to Binary\obj\Debug\net6.0\refint\Decimal to Binary.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Decimal to Binary\obj\Debug\net6.0\Decimal to Binary.pdb
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Decimal to Binary\obj\Debug\net6.0\Decimal to Binary.genruntimeconfig.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Decimal to Binary\obj\Debug\net6.0\ref\Decimal to Binary.dll

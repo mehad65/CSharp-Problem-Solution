@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Any Base To Another Base/1.0.0": {
+        "runtime": {
+          "Any Base To Another Base.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Any Base To Another Base/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

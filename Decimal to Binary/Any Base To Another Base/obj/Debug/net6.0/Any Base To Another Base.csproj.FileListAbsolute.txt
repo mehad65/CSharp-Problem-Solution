@@ -1,0 +1,15 @@
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Any Base To Another Base\bin\Debug\net6.0\Any Base To Another Base.exe
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Any Base To Another Base\bin\Debug\net6.0\Any Base To Another Base.deps.json
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Any Base To Another Base\bin\Debug\net6.0\Any Base To Another Base.runtimeconfig.json
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Any Base To Another Base\bin\Debug\net6.0\Any Base To Another Base.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Any Base To Another Base\bin\Debug\net6.0\Any Base To Another Base.pdb
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Any Base To Another Base\obj\Debug\net6.0\Any Base To Another Base.csproj.AssemblyReference.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Any Base To Another Base\obj\Debug\net6.0\Any Base To Another Base.GeneratedMSBuildEditorConfig.editorconfig
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Any Base To Another Base\obj\Debug\net6.0\Any Base To Another Base.AssemblyInfoInputs.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Any Base To Another Base\obj\Debug\net6.0\Any Base To Another Base.AssemblyInfo.cs
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Any Base To Another Base\obj\Debug\net6.0\Any Base To Another Base.csproj.CoreCompileInputs.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Any Base To Another Base\obj\Debug\net6.0\Any Base To Another Base.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Any Base To Another Base\obj\Debug\net6.0\refint\Any Base To Another Base.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Any Base To Another Base\obj\Debug\net6.0\Any Base To Another Base.pdb
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Any Base To Another Base\obj\Debug\net6.0\Any Base To Another Base.genruntimeconfig.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Decimal to Binary\Any Base To Another Base\obj\Debug\net6.0\ref\Any Base To Another Base.dll
