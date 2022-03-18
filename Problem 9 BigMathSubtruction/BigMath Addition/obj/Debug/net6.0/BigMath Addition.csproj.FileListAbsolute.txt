@@ -1,0 +1,15 @@
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 9 BigMathSubtruction\BigMath Addition\bin\Debug\net6.0\BigMath Addition.exe
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 9 BigMathSubtruction\BigMath Addition\bin\Debug\net6.0\BigMath Addition.deps.json
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 9 BigMathSubtruction\BigMath Addition\bin\Debug\net6.0\BigMath Addition.runtimeconfig.json
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 9 BigMathSubtruction\BigMath Addition\bin\Debug\net6.0\BigMath Addition.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 9 BigMathSubtruction\BigMath Addition\bin\Debug\net6.0\BigMath Addition.pdb
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 9 BigMathSubtruction\BigMath Addition\obj\Debug\net6.0\BigMath Addition.csproj.AssemblyReference.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 9 BigMathSubtruction\BigMath Addition\obj\Debug\net6.0\BigMath Addition.GeneratedMSBuildEditorConfig.editorconfig
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 9 BigMathSubtruction\BigMath Addition\obj\Debug\net6.0\BigMath Addition.AssemblyInfoInputs.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 9 BigMathSubtruction\BigMath Addition\obj\Debug\net6.0\BigMath Addition.AssemblyInfo.cs
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 9 BigMathSubtruction\BigMath Addition\obj\Debug\net6.0\BigMath Addition.csproj.CoreCompileInputs.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 9 BigMathSubtruction\BigMath Addition\obj\Debug\net6.0\BigMath Addition.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 9 BigMathSubtruction\BigMath Addition\obj\Debug\net6.0\refint\BigMath Addition.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 9 BigMathSubtruction\BigMath Addition\obj\Debug\net6.0\BigMath Addition.pdb
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 9 BigMathSubtruction\BigMath Addition\obj\Debug\net6.0\BigMath Addition.genruntimeconfig.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem 9 BigMathSubtruction\BigMath Addition\obj\Debug\net6.0\ref\BigMath Addition.dll
