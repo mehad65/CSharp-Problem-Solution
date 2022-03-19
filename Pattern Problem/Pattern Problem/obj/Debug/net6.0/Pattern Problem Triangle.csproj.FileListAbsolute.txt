@@ -1,0 +1,15 @@
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\bin\Debug\net6.0\Pattern Problem Triangle.exe
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\bin\Debug\net6.0\Pattern Problem Triangle.deps.json
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\bin\Debug\net6.0\Pattern Problem Triangle.runtimeconfig.json
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\bin\Debug\net6.0\Pattern Problem Triangle.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\bin\Debug\net6.0\Pattern Problem Triangle.pdb
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\obj\Debug\net6.0\Pattern Problem Triangle.csproj.AssemblyReference.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\obj\Debug\net6.0\Pattern Problem Triangle.GeneratedMSBuildEditorConfig.editorconfig
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\obj\Debug\net6.0\Pattern Problem Triangle.AssemblyInfoInputs.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\obj\Debug\net6.0\Pattern Problem Triangle.AssemblyInfo.cs
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\obj\Debug\net6.0\Pattern Problem Triangle.csproj.CoreCompileInputs.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\obj\Debug\net6.0\Pattern Problem Triangle.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\obj\Debug\net6.0\refint\Pattern Problem Triangle.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\obj\Debug\net6.0\Pattern Problem Triangle.pdb
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\obj\Debug\net6.0\Pattern Problem Triangle.genruntimeconfig.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\obj\Debug\net6.0\ref\Pattern Problem Triangle.dll

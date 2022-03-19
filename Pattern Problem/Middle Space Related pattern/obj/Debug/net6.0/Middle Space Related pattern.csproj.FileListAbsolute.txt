@@ -1,0 +1,15 @@
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Middle Space Related pattern\obj\Debug\net6.0\Middle Space Related pattern.csproj.AssemblyReference.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Middle Space Related pattern\obj\Debug\net6.0\Middle Space Related pattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Middle Space Related pattern\obj\Debug\net6.0\Middle Space Related pattern.AssemblyInfoInputs.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Middle Space Related pattern\obj\Debug\net6.0\Middle Space Related pattern.AssemblyInfo.cs
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Middle Space Related pattern\obj\Debug\net6.0\Middle Space Related pattern.csproj.CoreCompileInputs.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Middle Space Related pattern\bin\Debug\net6.0\Middle Space Related pattern.exe
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Middle Space Related pattern\bin\Debug\net6.0\Middle Space Related pattern.deps.json
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Middle Space Related pattern\bin\Debug\net6.0\Middle Space Related pattern.runtimeconfig.json
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Middle Space Related pattern\bin\Debug\net6.0\Middle Space Related pattern.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Middle Space Related pattern\bin\Debug\net6.0\Middle Space Related pattern.pdb
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Middle Space Related pattern\obj\Debug\net6.0\Middle Space Related pattern.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Middle Space Related pattern\obj\Debug\net6.0\refint\Middle Space Related pattern.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Middle Space Related pattern\obj\Debug\net6.0\Middle Space Related pattern.pdb
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Middle Space Related pattern\obj\Debug\net6.0\Middle Space Related pattern.genruntimeconfig.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Middle Space Related pattern\obj\Debug\net6.0\ref\Middle Space Related pattern.dll

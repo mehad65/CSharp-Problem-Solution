@@ -1,0 +1,15 @@
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Diamond\bin\Debug\net6.0\Diamond.exe
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Diamond\bin\Debug\net6.0\Diamond.deps.json
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Diamond\bin\Debug\net6.0\Diamond.runtimeconfig.json
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Diamond\bin\Debug\net6.0\Diamond.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Diamond\bin\Debug\net6.0\Diamond.pdb
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Diamond\obj\Debug\net6.0\Diamond.csproj.AssemblyReference.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Diamond\obj\Debug\net6.0\Diamond.GeneratedMSBuildEditorConfig.editorconfig
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Diamond\obj\Debug\net6.0\Diamond.AssemblyInfoInputs.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Diamond\obj\Debug\net6.0\Diamond.AssemblyInfo.cs
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Diamond\obj\Debug\net6.0\Diamond.csproj.CoreCompileInputs.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Diamond\obj\Debug\net6.0\Diamond.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Diamond\obj\Debug\net6.0\refint\Diamond.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Diamond\obj\Debug\net6.0\Diamond.pdb
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Diamond\obj\Debug\net6.0\Diamond.genruntimeconfig.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Diamond\obj\Debug\net6.0\ref\Diamond.dll

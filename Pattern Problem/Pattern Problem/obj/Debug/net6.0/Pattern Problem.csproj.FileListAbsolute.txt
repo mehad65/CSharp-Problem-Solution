@@ -1,0 +1,15 @@
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\bin\Debug\net6.0\Pattern Problem.exe
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\bin\Debug\net6.0\Pattern Problem.deps.json
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\bin\Debug\net6.0\Pattern Problem.runtimeconfig.json
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\bin\Debug\net6.0\Pattern Problem.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\bin\Debug\net6.0\Pattern Problem.pdb
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\obj\Debug\net6.0\Pattern Problem.csproj.AssemblyReference.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\obj\Debug\net6.0\Pattern Problem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\obj\Debug\net6.0\Pattern Problem.AssemblyInfoInputs.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\obj\Debug\net6.0\Pattern Problem.AssemblyInfo.cs
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\obj\Debug\net6.0\Pattern Problem.csproj.CoreCompileInputs.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\obj\Debug\net6.0\Pattern Problem.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\obj\Debug\net6.0\refint\Pattern Problem.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\obj\Debug\net6.0\Pattern Problem.pdb
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\obj\Debug\net6.0\Pattern Problem.genruntimeconfig.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Pattern Problem\Pattern Problem\obj\Debug\net6.0\ref\Pattern Problem.dll
