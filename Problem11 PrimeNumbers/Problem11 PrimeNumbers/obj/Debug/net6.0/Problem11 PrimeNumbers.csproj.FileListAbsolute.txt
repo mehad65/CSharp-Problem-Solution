@@ -1,0 +1,15 @@
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem11 PrimeNumbers\Problem11 PrimeNumbers\bin\Debug\net6.0\Problem11 PrimeNumbers.exe
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem11 PrimeNumbers\Problem11 PrimeNumbers\bin\Debug\net6.0\Problem11 PrimeNumbers.deps.json
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem11 PrimeNumbers\Problem11 PrimeNumbers\bin\Debug\net6.0\Problem11 PrimeNumbers.runtimeconfig.json
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem11 PrimeNumbers\Problem11 PrimeNumbers\bin\Debug\net6.0\Problem11 PrimeNumbers.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem11 PrimeNumbers\Problem11 PrimeNumbers\bin\Debug\net6.0\Problem11 PrimeNumbers.pdb
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem11 PrimeNumbers\Problem11 PrimeNumbers\obj\Debug\net6.0\Problem11 PrimeNumbers.csproj.AssemblyReference.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem11 PrimeNumbers\Problem11 PrimeNumbers\obj\Debug\net6.0\Problem11 PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem11 PrimeNumbers\Problem11 PrimeNumbers\obj\Debug\net6.0\Problem11 PrimeNumbers.AssemblyInfoInputs.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem11 PrimeNumbers\Problem11 PrimeNumbers\obj\Debug\net6.0\Problem11 PrimeNumbers.AssemblyInfo.cs
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem11 PrimeNumbers\Problem11 PrimeNumbers\obj\Debug\net6.0\Problem11 PrimeNumbers.csproj.CoreCompileInputs.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem11 PrimeNumbers\Problem11 PrimeNumbers\obj\Debug\net6.0\Problem11 PrimeNumbers.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem11 PrimeNumbers\Problem11 PrimeNumbers\obj\Debug\net6.0\refint\Problem11 PrimeNumbers.dll
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem11 PrimeNumbers\Problem11 PrimeNumbers\obj\Debug\net6.0\Problem11 PrimeNumbers.pdb
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem11 PrimeNumbers\Problem11 PrimeNumbers\obj\Debug\net6.0\Problem11 PrimeNumbers.genruntimeconfig.cache
+E:\Step By Step Project\Github\CSharp-Problem-Solution\Problem11 PrimeNumbers\Problem11 PrimeNumbers\obj\Debug\net6.0\ref\Problem11 PrimeNumbers.dll
