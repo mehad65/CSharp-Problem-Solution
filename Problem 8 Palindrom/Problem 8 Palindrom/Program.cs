@@ -1,13 +1,13 @@
-﻿Console.WriteLine("Please enter a word");
-var input=Console.ReadLine();
-char[] inputarr=input.ToCharArray();
-inputarr.Reverse();
-string output=new string(inputarr);
-if (input.ToLower() == output.ToLower())
+﻿Console.WriteLine("Please enter a string");
+string input= Console.ReadLine();   
+char[] inputchars= input.ToCharArray();
+Array.Reverse(inputchars);
+String Check=new string(inputchars);
+if (input.ToLower().Equals(Check.ToLower()))
 {
-    Console.WriteLine("Your text is Palindrom");
+    Console.WriteLine("Palindrome");
 }
 else
 {
-    Console.WriteLine("Your text is not palindrom");
+    Console.WriteLine("Not Palindrome");
 }
